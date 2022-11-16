@@ -1,7 +1,8 @@
-import static org.junit.Assert.*;
-
 import org.junit.Test;
+
 import java.text.DecimalFormat;
+
+import static org.junit.Assert.*;
 
 public class BMICalcTester {
 	@Test
